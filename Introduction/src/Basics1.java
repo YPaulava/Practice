@@ -6,7 +6,7 @@ public class Basics1 {
 
 		// this prints in the output, remember semicolon at the end of each step/line 
 		System.out.println("hello! I started learning Java");
-		System.out.println("I committedt this to GitHub");
+		System.out.println("I committed and edited again");
 		
 		// add two numbers 2,3,5' declare variable
 		
